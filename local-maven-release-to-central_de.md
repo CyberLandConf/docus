@@ -6,3 +6,5 @@ https://securityboulevard.com/2021/02/what-publishers-need-to-know-about-migrati
 https://docs.github.com/en/actions/guides/publishing-java-packages-with-maven
 
 https://maven.apache.org/guides/mini/guide-naming-conventions.html
+
+https://central.sonatype.org/publish/
